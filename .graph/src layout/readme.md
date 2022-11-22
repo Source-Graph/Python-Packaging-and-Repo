@@ -9,4 +9,6 @@ home: https://packaging.python.org/en/latest/discussions/src-layout-vs-flat-layo
 
 
 # more
-sch: https://www.google.com/search?q=Python+src+layout
+sch:
+- https://www.youtube.com/results?search_query=python+src+layout
+- https://www.google.com/search?q=python+src+layout
