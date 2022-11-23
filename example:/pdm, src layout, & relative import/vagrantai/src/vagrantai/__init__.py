@@ -1,9 +1,9 @@
 # works:
-# relative: works in IDE & ''--editable install'
+# relative: works in IDE & '--editable install'
 from .template import UbuntuLTS
 from .vagrantfile import Vagrantfile
 
-# absolute: Works in ''--editable install' only
+# absolute: Works in '--editable install' only
 # from vagrantai.template import UbuntuLTS
 
 def test_vagrant():
@@ -14,5 +14,7 @@ def test_vagrant():
 def test_template():
     print(UbuntuLTS.name)
     print(UbuntuLTS.box)
+    print(UbuntuLTS.kvm)
 
-test_template()
+if __name__ == '__main__':
+    test_template()
