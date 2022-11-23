@@ -1,0 +1,15 @@
+[[package]]
+name = "python-vagrant"
+version = "1.0.0"
+requires_python = ">=3.8"
+summary = "Python bindings for interacting with Vagrant virtual machines."
+
+[metadata]
+lock_version = "4.0"
+content_hash = "sha256:266fb05c79104217ed924ac8910e649dea6f4850600223e45c7be1bd2903e52b"
+
+[metadata.files]
+"python-vagrant 1.0.0" = [
+    {url = "https://files.pythonhosted.org/packages/2b/3f/2e42a44c9705d72d9925fe8daf00f31bcf82e8b84ec5a752a8a1357c3ef8/python-vagrant-1.0.0.tar.gz", hash = "sha256:a8fe93ccf2ff37ecc95ec2f49ea74a91a6ce73a4db4a16a98dd26d397cfd09e5"},
+    {url = "https://files.pythonhosted.org/packages/70/f7/15a056441dcb0b1e7e4730e8e80926a3bd3c79671dc6688323342ff25564/python_vagrant-1.0.0-py3-none-any.whl", hash = "sha256:9f24a29e3f7b17d79c399d0f358d9cc1b76fd5495698c438a39cdae89de467f0"},
+]

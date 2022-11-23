@@ -12,7 +12,9 @@ description = ""
 authors = [
     {name = "Dark Star☀🎵", email = "darkstar@unisocial.net"},
 ]
-dependencies = []
+dependencies = [
+    "python-vagrant>=1.0.0",
+]
 requires-python = ">=3.10"
 readme = "README.md"
 license = {text = "MIT"}
