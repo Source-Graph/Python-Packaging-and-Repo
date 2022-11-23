@@ -1,5 +1,8 @@
 home: https://pdm.fming.dev/latest/
 
+# ecosystem:
+ecosystem.home: https://github.com/pdm-project/awesome-pdm
+
 # IDE support:
 https://pdm.fming.dev/latest/usage/pep582/#configure-ide-to-support-pep-582
 
