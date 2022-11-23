@@ -6,6 +6,7 @@ sch: https://www.youtube.com/results?search_query=pyproject.toml
 
 - [PyPi - How to Publish your own PIP package](https://youtu.be/v4bkJef4W94)
 
+- [Packaging Python in 2022 - presented by Jeremiah Paige](https://youtu.be/RXoDukRu9G4)
 
 # presentation:
 - [TUTORIAL / Bernát Gabor / Python Packaging Demystified](https://youtu.be/ApDThpsr2Fw) - Jun 4, 2021
