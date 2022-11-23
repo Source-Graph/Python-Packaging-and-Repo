@@ -8,6 +8,8 @@ run: `pdm --pep582`
 
 then add to .profile:
 
+# and 'src layout
+https://pdm.fming.dev/1.15/pyproject/tool-pdm/
 
 # guide
 - [Introduction to Python's PDM package manager](https://youtu.be/nHHB55QKu6g)
