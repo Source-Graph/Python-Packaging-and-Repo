@@ -10,3 +10,6 @@ pip3 install check-manifest
 
 check-manifest --create
 ```
+
+# relation:
+[Lesson 8 - Python Applications Packaging with Setuptools](https://youtu.be/wCGsLqHOT2I)
