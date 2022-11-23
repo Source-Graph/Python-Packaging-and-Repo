@@ -1,0 +1,18 @@
+[build-system]
+requires = ["pdm-pep517>=1.0.0"]
+build-backend = "pdm.pep517.api"
+
+
+[tool.pdm]
+
+[project]
+name = "vagrantai"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Dark Star☀🎵", email = "darkstar@unisocial.net"},
+]
+dependencies = []
+requires-python = ">=3.10"
+readme = "README.md"
+license = {text = "MIT"}
