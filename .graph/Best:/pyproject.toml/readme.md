@@ -13,6 +13,8 @@ sch: https://www.youtube.com/results?search_query=pyproject.toml
 
 
 # EP-517 and PEP-518
+https://peps.python.org/pep-0518/
 
-# relation ->
-[Publishing (Perfect) Python Packages on PyPi @end](https://youtu.be/GIF3LaRqgXo?t=1721)
+## (relation) ->
+- https://frostming.com/2021/01-22/introducing-pdm/
+- [Publishing (Perfect) Python Packages on PyPi @end](https://youtu.be/GIF3LaRqgXo?t=1721)
