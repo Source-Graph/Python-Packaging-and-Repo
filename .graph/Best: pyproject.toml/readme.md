@@ -8,8 +8,8 @@ sch: https://www.youtube.com/results?search_query=pyproject.toml
 
 
 # presentation:
-- [TUTORIAL / Bernát Gabor / Python Packaging Demystified](https://youtu.be/ApDThpsr2Fw)
-- [The magic of pyproject.toml - Piotr Gnus - Pykonik Tech Talks #55](https://youtu.be/ONgeNHWIFKM)
+- [TUTORIAL / Bernát Gabor / Python Packaging Demystified](https://youtu.be/ApDThpsr2Fw) - Jun 4, 2021
+- [The magic of pyproject.toml - Piotr Gnus - Pykonik Tech Talks #55](https://youtu.be/ONgeNHWIFKM) - Jan 7, 2022
 
 
 # EP-517 and PEP-518
