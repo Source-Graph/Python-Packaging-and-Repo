@@ -1,10 +1,11 @@
-# works:
-# relative: works in IDE & '--editable install'
-from .template import UbuntuLTS
-from .vagrantfile import Vagrantfile
+# works: import
+# absolute: Works in IDE only if installed with '--editable install'!
+from vagrantai.template import UbuntuLTS
+from vagrantai.vagrantfile import Vagrantfile
+# relative: works in '--editable install' but NOT IDE!
+# from .template import UbuntuLTS
+# from .vagrantfile import Vagrantfile
 
-# absolute: Works in '--editable install' only
-# from vagrantai.template import UbuntuLTS
 
 def test_vagrant():
     name = "wordpress"
@@ -18,3 +19,4 @@ def test_template():
 
 if __name__ == '__main__':
     test_template()
+    test_vagrant()
