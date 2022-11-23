@@ -1,6 +1,12 @@
 # Python src layout
 home: https://packaging.python.org/en/latest/discussions/src-layout-vs-flat-layout/
 
+# Automatic discovery
+https://setuptools.pypa.io/en/latest/userguide/package_discovery.html#auto-discovery
+
+src layout:
+- https://setuptools.pypa.io/en/latest/userguide/package_discovery.html#src-layout
+
 # guide:
 - https://py-pkgs.org/04-package-structure.html
 
