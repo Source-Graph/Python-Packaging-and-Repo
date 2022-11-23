@@ -8,3 +8,6 @@ add_dependency(){
 
 # install dependencies
 pdm install
+
+# development install
+pip3 install -e .
