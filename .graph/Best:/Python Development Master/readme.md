@@ -3,6 +3,11 @@ home: https://pdm.fming.dev/latest/
 # IDE support:
 https://pdm.fming.dev/latest/usage/pep582/#configure-ide-to-support-pep-582
 
+## PyCharm
+add 'Sources Root'
+https://www.jetbrains.com/help/pycharm/configuring-project-structure.html
+
+
 # setup for PEP 582
 run: `pdm --pep582`
 
