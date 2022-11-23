@@ -11,11 +11,13 @@ sch: https://www.youtube.com/results?search_query=pyproject.toml
 # presentation:
 - [TUTORIAL / Bernát Gabor / Python Packaging Demystified](https://youtu.be/ApDThpsr2Fw) - Jun 4, 2021
 - [The magic of pyproject.toml - Piotr Gnus - Pykonik Tech Talks #55](https://youtu.be/ONgeNHWIFKM) - Jan 7, 2022
+- [@end - Publishing (Perfect) Python Packages on PyPi](https://youtu.be/GIF3LaRqgXo?t=1721)
 
-
-# EP-517 and PEP-518
+# PEP-517 and PEP-518
 https://peps.python.org/pep-0518/
 
 ## (relation) ->
 - https://frostming.com/2021/01-22/introducing-pdm/
-- [Publishing (Perfect) Python Packages on PyPi @end](https://youtu.be/GIF3LaRqgXo?t=1721)
+
+# PEP 621 – Storing project metadata in pyproject.toml
+https://peps.python.org/pep-0621/
