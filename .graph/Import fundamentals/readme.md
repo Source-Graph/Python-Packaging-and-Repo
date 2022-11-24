@@ -1,4 +1,7 @@
 # Fundamentals
+Top!:
+- [Python's Import System - Module object|Regular/Namespace Packages|Finders & Loaders|Relative imports](https://youtu.be/QCSz0j8tGmI)
+
 guide:
 - https://iq-inc.com/importerror-attempted-relative-import/
 - https://realpython.com/python-import/
