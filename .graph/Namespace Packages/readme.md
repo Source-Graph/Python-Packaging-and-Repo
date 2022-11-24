@@ -18,8 +18,8 @@ Best:
 
 index:
 - [Python: Namespace Packages](https://youtu.be/Gz6lTd0jKH4)
-- [Python Namespace Packages](https://youtu.be/i_zTU-Ux7_o)
-- [I don't need `__init__.py`? PEP 420 and namespace packages (intermediate) anthony explains #420](https://youtu.be/2Xvb79hOUdM)
+- by Django Lessons - [Python Namespace Packages](https://youtu.be/i_zTU-Ux7_o)
+- by @anthonywritescode - [I don't need `__init__.py`? PEP 420 and namespace packages (intermediate) anthony explains #420](https://youtu.be/2Xvb79hOUdM)
 
 other:
 - [Python's Import System - Module object|Regular/Namespace Packages|Finders & Loaders|Relative imports](https://youtu.be/QCSz0j8tGmI)
