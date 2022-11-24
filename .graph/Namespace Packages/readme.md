@@ -9,8 +9,11 @@ https://packaging.python.org/en/latest/guides/packaging-namespace-packages/
 A complete working example of two native namespace packages can be found in the [native namespace package example project](https://github.com/pypa/sample-namespace-packages/tree/master/native).
 
 # guide:
-index:
+Best:
 - [Introduction to Python - Part 22 - Namespace Package & Regular Package](https://youtu.be/q6SfMhJQkgA)
+-(requires)-> [Introduction to Python - Part 21 - Custom Packages & Modules using PYTHONPATH & sys.path](https://youtu.be/0lc159mdOn4)
+
+index:
 - [Python: Namespace Packages](https://youtu.be/Gz6lTd0jKH4)
 - [Python Namespace Packages](https://youtu.be/i_zTU-Ux7_o)
 - [I don't need `__init__.py`? PEP 420 and namespace packages (intermediate) anthony explains #420](https://youtu.be/2Xvb79hOUdM)
