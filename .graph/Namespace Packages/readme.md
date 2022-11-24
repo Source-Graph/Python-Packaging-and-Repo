@@ -1,16 +1,22 @@
-Top!:
-- [Python's Import System - Module object|Regular/Namespace Packages|Finders & Loaders|Relative imports](https://youtu.be/QCSz0j8tGmI)
+# doc
+Packaging:
+https://packaging.python.org/en/latest/guides/packaging-namespace-packages/
+
+## example
+A complete working example of two native namespace packages can be found in the [native namespace package example project](https://github.com/pypa/sample-namespace-packages/tree/master/native).
+
 
 
 # guide:
+Top!:
+- [Python's Import System - Module object|Regular/Namespace Packages|Finders & Loaders|Relative imports](https://youtu.be/QCSz0j8tGmI)
+
+index:
 - [Python: Namespace Packages](https://youtu.be/Gz6lTd0jKH4)
 - [Python Namespace Packages](https://youtu.be/i_zTU-Ux7_o)
 - [I don't need `__init__.py`? PEP 420 and namespace packages (intermediate) anthony explains #420](https://youtu.be/2Xvb79hOUdM)
 
 sch: https://www.youtube.com/results?search_query=python+namespace+package
-
-# Packaging
-https://packaging.python.org/en/latest/guides/packaging-namespace-packages/
 
 # PEP 420
 https://peps.python.org/pep-0420/
