@@ -1,4 +1,7 @@
-docs:
+# Docs:
+quickstart
+- https://setuptools.pypa.io/en/latest/userguide/quickstart.html#development-mode
+full
 - https://setuptools.pypa.io/en/latest/userguide/development_mode.html
 
 relation: src layout
